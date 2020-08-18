@@ -7,5 +7,5 @@ function whisper(string) {
 }
 
 function logShout(strong) {
-  cosole.log("")
+  cosole.log()
 }
