@@ -7,5 +7,5 @@ function whisper(string) {
 }
 
 function logShout(string) {
-  cosole.log()
+  cosole.log("Hello Grandma").toLowerCase()
 }
