@@ -6,6 +6,6 @@ function whisper(string) {
   return string.toLowerCase()
 }
 
-function logShout(strong) {
+function logShout(string) {
   cosole.log()
 }
