@@ -7,5 +7,7 @@ function whisper(string) {
 }
 
 function logShout(string) {
-  cosole.log("Hello Grandma").toUpperCase()
+  
+  
+  
 }
